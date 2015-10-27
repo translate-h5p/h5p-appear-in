@@ -6,7 +6,7 @@
     },
     {
       "label": "Adatta contenuto",
-      "description": "Adatta la room al contenuto, sovrascriver� qualsiasi altezza e larghezza definita con valori 100 %."
+      "description": "Adatta la room al contenuto, sovrascriverà qualsiasi altezza e larghezza definita con valori 100 %."
     },
     {
       "label": "Altezza",
