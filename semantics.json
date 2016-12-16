@@ -17,7 +17,7 @@
   },
   {
     "label": "Height",
-	"importance": "low",
+    "importance": "low",
     "name": "appearHeight",
     "type": "number",
     "default": "400",
@@ -25,7 +25,7 @@
   },
   {
     "label": "Width",
-	"importance": "low",
+    "importance": "low",
     "name": "appearWidth",
     "type": "number",
     "default": "550",
