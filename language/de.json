@@ -2,22 +2,18 @@
   "semantics": [
     {
       "label": "Raumname",
-      "default": "h5p",
       "description": "Name des Raums"
     },
     {
       "label": "An den Container anpassen",
-      "default": true,
       "description": "Passt den Raum dem Container an, überschreibt jegliche Höhe und Breite mit 100 %."
     },
     {
       "label": "Höhe",
-      "default": "400",
       "description": "Setze die Höhe des Chatrooms"
     },
     {
       "label": "Breite",
-      "default": "550",
       "description": "Setze die Breite des Chatrooms"
     }
   ]
