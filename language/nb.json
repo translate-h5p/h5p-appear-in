@@ -3,8 +3,6 @@
     {
       "englishLabel": "Room name",
       "label": "Navn på rom",
-      "englishDefault": "h5p",
-      "default": "h5p",
       "englishDescription": "Name of the appear.in room",
       "description": "Navn på appear.in rommet brukere møtest i"
     },
