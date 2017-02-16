@@ -1,0 +1,21 @@
+{
+  "semantics": [
+    {
+      "label": "Chat-huoneen nimi",
+      "default": "h5p",
+      "description": "Appear.in chat-huoneen nimi"
+    },
+    {
+      "label": "Sovita kehykseen",
+      "description": "Sovita chat-huone ympäröivään kehykseen. Yliajaa leveyden ja pituuden 100% arvoilla."
+    },
+    {
+      "label": "Korkeus",
+      "description": "Chat-huoneen korkeus"
+    },
+    {
+      "label": "Leveys",
+      "description": "Chat-huoneen leveys"
+    }
+  ]
+}
