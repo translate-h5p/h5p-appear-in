@@ -5,7 +5,7 @@
   "minorVersion": 0,
   "patchVersion": 6,
   "runnable": 1,
-  "author": "Griffen",
+  "author": "griffen",
   "license": "MIT",
   "machineName": "H5P.AppearIn",
   "preloadedJs": [
