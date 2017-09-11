@@ -1,21 +1,21 @@
 {
   "semantics": [
     {
-      "label": "Chat-huoneen nimi",
+      "label": "Tsätin nimi",
       "default": "h5p",
-      "description": "Appear.in chat-huoneen nimi"
+      "description": "Appear.in-tsätin nimi"
     },
     {
       "label": "Sovita kehykseen",
-      "description": "Sovita chat-huone ympäröivään kehykseen. Yliajaa leveyden ja pituuden 100% arvoilla."
+      "description": "Sovita tsätti-ikkuna ympäröivään kehykseen. Tämä kumoaa aiemmat leveyden ja pituuden asetukset."
     },
     {
       "label": "Korkeus",
-      "description": "Chat-huoneen korkeus"
+      "description": "Tsätti-ikkunan korkeus"
     },
     {
       "label": "Leveys",
-      "description": "Chat-huoneen leveys"
+      "description": "Tsätti-ikkunan leveys"
     }
   ]
 }
