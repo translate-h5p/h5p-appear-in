@@ -2,6 +2,7 @@
   "semantics": [
     {
       "label": "Ime sobe",
+      "default": "h5p",
       "description": "Ime sobe za video-chat u appear.in "
     },
     {
