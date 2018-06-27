@@ -2,7 +2,6 @@
   "semantics": [
     {
       "label": "اسم الغرفة",
-      "default": "h5p",
       "description": "اسم المشارك"
     },
     {

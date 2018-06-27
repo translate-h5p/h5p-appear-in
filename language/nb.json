@@ -2,7 +2,6 @@
   "semantics": [
     {
       "label": "Navn på rom",
-      "default": "h5p",
       "description": "Navn på appear.in rommet brukere møtest i"
     },
     {

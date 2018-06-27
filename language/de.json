@@ -2,7 +2,6 @@
   "semantics": [
     {
       "label": "Raumname",
-      "default": "h5p",
       "description": "Name des Raums"
     },
     {

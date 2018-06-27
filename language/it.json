@@ -2,7 +2,6 @@
   "semantics": [
     {
       "label": "Nome room",
-      "default": "h5p",
       "description": "Nome pubblico nella room"
     },
     {

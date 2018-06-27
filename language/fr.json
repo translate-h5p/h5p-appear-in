@@ -2,7 +2,6 @@
   "semantics": [
     {
       "label": "Consigne",
-      "default": "h5p",
       "description": "Texte facultatif affiché au dessus de l'enregistreur audio"
     },
     {
