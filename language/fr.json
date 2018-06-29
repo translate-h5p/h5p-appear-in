@@ -2,7 +2,6 @@
   "semantics": [
     {
       "label": "Nom du salon de discussion",
-      "default": "h5p",
       "description": "Nom du salon de discussion appear.in"
     },
     {
