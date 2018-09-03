@@ -1,11 +1,11 @@
 {
   "semantics": [
     {
-      "label": "Consigne",
-      "description": "Texte facultatif affiché au dessus de l'enregistreur audio"
+      "label": "Room name",
+      "description": "Name of the appear.in room"
     },
     {
-      "label": "Options et textes",
+      "label": "Fit to container",
       "description": "Make the room fit its container, will override any height and width defined with 100% values."
     },
     {
