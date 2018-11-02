@@ -3,7 +3,7 @@
   "description": "To create a room to chat and talk together",
   "majorVersion": 1,
   "minorVersion": 0,
-  "patchVersion": 10,
+  "patchVersion": 12,
   "runnable": 1,
   "author": "griffen",
   "license": "MIT",
