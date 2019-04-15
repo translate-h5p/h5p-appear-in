@@ -1,4 +1,4 @@
-{
+Ôªø{
   "semantics": [
     {
       "label": "Vestluse nimi",
@@ -6,15 +6,15 @@
     },
     {
       "label": "Sobita raami",
-      "description": "T‰idab raami vestlusaknaga. Asendab vestlusakna kırgus- ja laiusv‰‰rtused 100% v‰‰rtustega."
+      "description": "T√§idab raami vestlusaknaga. Asendab vestlusakna k√µrgus- ja laiusv√§√§rtused 100% v√§√§rtustega."
     },
     {
-      "label": "Kırgus",
-      "description": "M‰‰ra vestlusakna kırgus"
+      "label": "K√µrgus",
+      "description": "M√§√§ra vestlusakna k√µrgus"
     },
     {
       "label": "Laius",
-      "description": "M‰‰ra vestlusakna laius"
+      "description": "M√§√§ra vestlusakna laius"
     }
   ]
 }
