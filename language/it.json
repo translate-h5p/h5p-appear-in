@@ -1,20 +1,20 @@
 {
   "semantics": [
     {
-      "label": "Nome room",
-      "description": "Nome pubblico nella room"
+      "label": "Nome della stanza",
+      "description": "Nome pubblico della stanza"
     },
     {
-      "label": "Adatta contenuto",
-      "description": "Adatta la room al contenuto, sovrascriverà qualsiasi altezza e larghezza definita con valori 100 %."
+      "label": "Adatta al contenitore",
+      "description": "Adatta la stanza al contenuto. Sovrascriverà qualsiasi altezza e larghezza definita con valori 100%"
     },
     {
       "label": "Altezza",
-      "description": "Definisci l'altezza della chat/talk room"
+      "description": "Definisci l'altezza della finestra di chat"
     },
     {
       "label": "Larghezza",
-      "description": "Definisci la larghezza della chat/talk room"
+      "description": "Definisci la larghezza della finestra di chat"
     }
   ]
 }
